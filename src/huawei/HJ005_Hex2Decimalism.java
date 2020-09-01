@@ -26,7 +26,7 @@ import java.io.InputStreamReader;
  * 3、对于每一位数，让其本身乘以16的位置减一次方。并将其加到总数上。
  * 4、遍历完整个字符串，输出结果即可
  */
-public class HJ5_Hex2Decimalism {
+public class HJ005_Hex2Decimalism {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         String string;

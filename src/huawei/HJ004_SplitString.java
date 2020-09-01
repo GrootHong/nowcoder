@@ -27,7 +27,7 @@ import java.io.InputStreamReader;
  * 按行读取字符串，然后将字符串切分。
  * 只输入两次，所以只要创建最大数组为ceil(100/8)*2即可。
  */
-public class HJ4_SplitString {
+public class HJ004_SplitString {
     public static void main(String[] args) throws IOException {
         int length = 2*(100/8)+2;
         String[] strings = new String[length];

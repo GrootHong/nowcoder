@@ -28,7 +28,7 @@ import java.util.Scanner;
  * 我傻了。。
  * 直接遍历一遍字符串不就行了
  */
-public class HJ2_CountCharacterNumber {
+public class HJ002_CountCharacterNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String string = sc.nextLine();
