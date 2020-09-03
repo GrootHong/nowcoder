@@ -1,4 +1,4 @@
-package huawei.HJ105;
+package huawei;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -21,7 +21,7 @@ import java.io.InputStreamReader;
 3
 0.0
  */
-public class MinusCounting {
+public class HJ105_MinusCounting {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         int totalCount = 0;
